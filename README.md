@@ -1,6 +1,6 @@
 # HCI-Research-Paper
 
-## A1 Figma Link: HCI A1 – Figma
+## A1 Figma Link: https://www.figma.com/file/DorcTGA0YpZ7T9M5NBabeG/HCI-A1?node-id=0%3A1
 
 ## HCI Assignment 1 Design: https://youtu.be/OSQFzjk8ZLc
 
